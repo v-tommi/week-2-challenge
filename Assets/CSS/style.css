@@ -20,7 +20,7 @@ nav {
     display: flex;
     flex-wrap: wrap;
     font-size: 14px;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 nav :hover {
@@ -39,12 +39,13 @@ nav :hover {
 .card {
     display: inline-flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    width: 30%;
+    justify-content: center;
+    width: 25%;
 }
 
   .card img {
     width: 100%;
+
 }
 
 .card:hover {
@@ -62,3 +63,8 @@ nav :hover {
     border-radius: 50%;
 }
 
+#Automate,
+#SharePoint {
+    max-width: 250px;
+    max-height: 250px;
+}
