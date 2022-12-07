@@ -45,7 +45,6 @@ nav :hover {
 
   .card img {
     width: 100%;
-
 }
 
 .card:hover {
@@ -56,8 +55,6 @@ nav :hover {
 .container {
     padding: 5px;
 }
-
-    
 
 #ProfilePic {
     border-radius: 50%;
