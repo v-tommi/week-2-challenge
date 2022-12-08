@@ -36,6 +36,18 @@ nav :hover {
     text-align: center;
 }
 
+.firstapp {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.firstapp :hover {
+    background-color: whitesmoke;
+    color: black;
+}
 .card {
     display: inline-flex;
     flex-wrap: wrap;
@@ -43,13 +55,18 @@ nav :hover {
     width: 25%;
 }
 
-  .card img {
+.card img {
     width: 100%;
 }
 
 .card:hover {
     background-color: whitesmoke;
     color: black;
+}
+
+.firstapp img {
+    max-width: 50%;
+    max-height: max-content;
 }
 
 .container {
