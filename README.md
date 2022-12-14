@@ -1,7 +1,7 @@
 # **My Portfolio Page**
 
 ## Overview
-The purpose of this page is to serve as my full stack developer profile page, where I can house previous projects while showcasing my abilities.
+The purpose of this page is to serve as my full stack developer profile page, which can be found [HERE](https://v-tommi.github.io/week-2-challenge/), where I can house previous projects while showcasing my abilities.
 
 The website can be broken down into several essential components:
 * Top Navigation
